@@ -5,8 +5,12 @@ algorithm for selecting the most relevant features. The main differences from ot
 of revevant features. Authors propose stopping rule that decide on each step whether or not to stop selection.
 
 
-FeatureSelection.py - Feature Selection program via Mutual Information.
-Examples.ipynb - examples of using the algorithm that proves efficiency.
-Mielniczuk_2019_stopping rules.pdf - article of method creators.   
-Presentation_Feature_Selection.pdf - idea of method.
-auxiliary.py - simulation of artificial data.
+1.FeatureSelection.py - Feature Selection program via Mutual Information. 
+
+2.Examples.ipynb - examples of using the algorithm that proves efficiency.
+
+3.Mielniczuk_2019_stopping rules.pdf - article of method creators.
+
+4.Presentation_Feature_Selection.pdf - idea of method.
+
+5.auxiliary.py - simulation of artificial data.
