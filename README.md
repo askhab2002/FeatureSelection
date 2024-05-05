@@ -1,4 +1,4 @@
-# Feature_Selection
+# Feature Selection via Mutual Information
 
 Here presented theoretical and practical parts of Feature Selection via Mutual Information. Jan Mielniczuka, Paweł Teisseyre created an 
 algorithm for selecting the most relevant features. The main differences from other information methods is that we do not know the true number 
